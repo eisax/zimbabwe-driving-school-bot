@@ -4,13 +4,13 @@ A comprehensive WhatsApp bot for Zimbabwe driving school theory tests, built wit
 
 ## Features
 
-✅ **25 Different Tests** - Each with 25 questions  
-✅ **Test Management** - Users can select and take any test from 1-25  
-✅ **Question Support** - Text-based and image-based questions  
-✅ **Result Tracking** - Records all test attempts and scores  
-✅ **Performance Analytics** - Shows percentage, pass/fail status  
-✅ **User History** - Displays all previous test results  
-✅ **Hexagonal Architecture** - Clean separation of concerns with ports and adapters  
+[] **25 Different Tests** - Each with 25 questions  
+[] **Test Management** - Users can select and take any test from 1-25  
+[] **Question Support** - Text-based and image-based questions  
+[] **Result Tracking** - Records all test attempts and scores  
+[] **Performance Analytics** - Shows percentage, pass/fail status  
+[] **User History** - Displays all previous test results  
+[] **Hexagonal Architecture** - Clean separation of concerns with ports and adapters  
 
 ## Architecture
 
@@ -34,10 +34,10 @@ Adapters (Implementations)
 ```
 
 This architecture provides:
-- 🔌 **Decoupling** - Domain logic independent from frameworks
-- 🧪 **Testability** - Easy to mock dependencies
-- 🔄 **Flexibility** - Easy to swap implementations
-- 📦 **Scalability** - Clean layer separation
+- **Decoupling** - Domain logic independent from frameworks
+- **Testability** - Easy to mock dependencies
+- **Flexibility** - Easy to swap implementations
+- **Scalability** - Clean layer separation
 
 ## Project Structure
 
@@ -134,10 +134,10 @@ Once the bot is running and authenticated:
 ### Test Results
 
 Results show:
-- ✅ **Score**: X/25
-- 📊 **Percentage**: X%
-- 🎯 **Status**: PASSED (≥75%) or FAILED (<75%)
-- 📅 **Date**: When the test was completed
+- [] **Score**: X/25
+- **Percentage**: X%
+- **Status**: PASSED (≥75%) or FAILED (<75%)
+- **Date**: When the test was completed
 
 ## Database
 
@@ -253,4 +253,4 @@ For issues or questions:
 
 ---
 
-**Made for Zimbabwe Driving School** 🚗
+**Made for Zimbabwe Driving School**
