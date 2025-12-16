@@ -242,7 +242,7 @@ Main entry point for message handling
 
 ## License
 
-MIT License - Feel free to use and modify
+MIT License
 
 ## Support
 
