@@ -1,0 +1,30 @@
+{
+  "name": "zimbabwe-driving-school-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "WhatsApp bot for Zimbabwe driving school theory tests with hexagonal architecture",
+  "author": "Driving School Team",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "driving",
+    "theory",
+    "zimbabwe",
+    "hexagonal-architecture"
+  ],
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.7",
+    "whatsapp-web.js": "^1.34.2"
+  }
+}
