@@ -18,7 +18,7 @@
 3. **Bot is ready when you see:**
    ```
    [] WhatsApp bot is ready!
-   👤 Bot is logged in and ready to receive messages
+   Bot is logged in and ready to receive messages
    ```
 
 ## Using the Bot
@@ -28,7 +28,7 @@
 Send any message to bot to see the menu:
 
 ```
-🚗 Zimbabwe Driving School Bot 🚗
+Zimbabwe Driving School Bot
 
 Welcome! Choose an option:
 
