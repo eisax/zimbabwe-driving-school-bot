@@ -513,4 +513,4 @@ Time │ WhatsApp Client      │ Handler          │ UseCase        │ Reposi
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-These diagrams show the complete architecture, data flows, and interactions of the Zimbabwe Driving School WhatsApp Bot.
+These diagrams show the complete architecture, data flows, and interactions of the Zimbabwe Driving School WhatsApp.
